@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240882740574",
+    "firebase_url": "https://myquest-791a4.firebaseio.com",
+    "project_id": "myquest-791a4",
+    "storage_bucket": "myquest-791a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240882740574:android:ed002fcd48b75de3",
+        "android_client_info": {
+          "package_name": "com.android.myquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240882740574-2u4iiak1e073cv593bl713h8f23tosgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHtDfD968hzsR5mZhOfsRqGo26HyEXaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

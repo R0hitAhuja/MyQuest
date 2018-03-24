@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyQuest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading">Loading...</string>
+    <string name="web_client_id">240882740574-2u4iiak1e073cv593bl713h8f23tosgn.apps.googleusercontent.com</string>
+</resources>
